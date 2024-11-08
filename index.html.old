@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <title>RapidVision</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+    <header>
+        <img src="logo.svg" alt="RapidVision">
+    </header>
+
+    <main>
+        <section class="intro">
+            <h2>Автоматизация полного цикла разработки моделей компьютерного зрения</h2>
+            <p>Платформа для создания нейронных сетей с упором на эффективность и скорость.</p>
+        </section>
+
+        <section class="features">
+            <div class="feature">
+                <h3>Генерация синтетических датасетов</h3>
+                <p>Автоматическое создание высококачественных синтетических данных для обучения моделей.</p>
+            </div>
+            <div class="feature">
+                <h3>Разметка датасетов</h3>
+                <p>Интеллектуальные инструменты для быстрой и точной разметки данных.</p>
+            </div>
+            <div class="feature">
+                <h3>Обучение моделей</h3>
+                <p>Автоматизация процесса обучения нейронных сетей без лишних усилий.</p>
+            </div>
+            <div class="feature">
+                <h3>Развертка и тестирование</h3>
+                <p>Быстрое развертывание и всестороннее тестирование моделей перед запуском.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer id="contact">
+        <p>© 2024 RapidVision</p>
+        <p>Email: <a href="mailto:mishapankin@gmail.com">mishapankin@gmail.com</a></p>
+    </footer>
+</body>
+
+</html>
